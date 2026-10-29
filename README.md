@@ -31,3 +31,7 @@ Run the program with **Ctrl+F5**, and the tests with **Test > Run All Tests** (o
 - In `Read`, count the lines as you go: the header is line 1. `decimal.TryParse` tells you whether the GPA is a number, and `Trim()` removes the spaces around a value.
 - `new StreamWriter(path)` replaces a file; `new StreamWriter(path, append: true)` adds to it. Check `File.Exists` before you open the file, to know whether it needs a header.
 - `{student.Gpa:0.00}` writes the GPA to two decimal places.
+
+## Hand it in
+
+When it works, push your solution to a public repo of your own on GitHub, then paste that repo's address into **Submit your exercise** on the lesson page at [ask-codey.com](https://www.ask-codey.com). That's what completes the lesson. The lesson page shows the Git commands, step by step.
