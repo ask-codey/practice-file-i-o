@@ -1,6 +1,6 @@
-# Practice: File I/O
+# Exercise: File I/O
 
-Practice code for the lesson **Practice: File I/O** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
+Exercise code for the lesson **Exercise: File I/O** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
 
 A school keeps its students' grades in a CSV file exported from a spreadsheet, and the file has a few mistakes in it. You'll write the code that reads it, logs the lines it can't read, writes an honor roll, and adds new students.
 
